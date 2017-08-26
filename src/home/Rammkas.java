@@ -9,5 +9,6 @@ public class Rammkas {
             System.out.println("Right");
             System.out.println(i);
             System.out.println(f);
+            System.out.println(d);
         }
 }
